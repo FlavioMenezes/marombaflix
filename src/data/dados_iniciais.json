@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Motivacional",
+      "link": "https://pt.wikipedia.org/wiki/Motivação",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Para Motivar seu Treino",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -14,88 +14,104 @@
           "url": "https://www.youtube.com/watch?v=cT2dGUiwzLo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Motivation - In The End",
+          "url": "https://www.youtube.com/watch?v=Wi-Jbe2_YYo&t=109s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "NADA PODE TE PARAR - Incrível Motivação Bodybuilding",
+          "url": "https://www.youtube.com/watch?v=_7SkvRP3Xv0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "PROSSIGA, NINGUÉM PODE TE PARAR! - Motivação Bodybuilding",
+          "url": "https://www.youtube.com/watch?v=KRzhabsljlU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "ANTES DE TREINAR ESCUTE ISSO - MOTIVAÇÃO",
+          "url": "https://www.youtube.com/watch?v=YZJdl8EZTIc"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Motivação Bodybuilding - VITÓRIA",
+          "url": "https://www.youtube.com/watch?v=uWnj05WfFR4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "MOTIVAÇÃO Bodybuilder convicção vídeo motivacional",
+          "url": "https://www.youtube.com/watch?v=CAXMARREGIs"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Eu sou um campeão! (I am a champion) LEGENDADO - PT-BR",
+          "url": "https://www.youtube.com/watch?v=ET3d6vRmKfI"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Mr. Olympia",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Melhores Atletas Mr. Olympia da História",
+        "url": "https://pt.wikipedia.org/wiki/Mr._Olympia"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Ronnie Coleman",
+          "url": "https://www.youtube.com/watch?v=Q1sTG7Pg8IQ"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Lee Haney",
+          "url": "https://www.youtube.com/watch?v=0mMm70RBd94"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Arnold Schwarzenegger",
+          "url": "https://www.youtube.com/watch?v=mL24xiL-bRI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Phil Heath",
+          "url": "https://www.youtube.com/watch?v=TA3wM63F4-w"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Dorian Yates",
+          "url": "https://www.youtube.com/watch?v=SLORXa58eoA"
+        },
+        {
+          "titulo": "Jay Cutler",
+          "url": "https://www.youtube.com/watch?v=Ef8j_h-TL1g"
+        },
+        {
+          "titulo": "Sergio Oliva",
+          "url": "https://www.youtube.com/watch?v=lNLYue_6AZQ"
+        },
+        {
+          "titulo": "Frank Zane",
+          "url": "https://www.youtube.com/watch?v=18aFZZZsPHo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Adquirir Conhecimento",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores Canais Informativos Para Você Aprender",
+        "url": "https://pt.wikipedia.org/wiki/Conhecimento"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Caio Bottura",
+          "url": "https://www.youtube.com/watch?v=0I40TnsGEM8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Felipe Franco",
+          "url": "https://www.youtube.com/watch?v=3fXB45m4l2k"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "MaxTitanium",
+          "url": "https://www.youtube.com/watch?v=Cs9wuzCC3Q4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Leandro Twin",
+          "url": "https://www.youtube.com/watch?v=kuJYpL7sHvo"
+        },
+        {
+          "titulo": "Fernando Sardinha",
+          "url": "https://www.youtube.com/watch?v=CMbWrBaPiKI"
         }
       ]
     },

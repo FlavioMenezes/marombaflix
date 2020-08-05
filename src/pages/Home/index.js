@@ -42,6 +42,9 @@ function Home() {
         category={dadosIniciais.categorias[5]}
       />
 
+      <Caurosel 
+        category={dadosIniciais.categorias[6]}
+      />
 
       <Footer />
     </div>

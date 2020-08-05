@@ -116,84 +116,114 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Treino Dorsal",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "COMO TREINAR DORSAIS - COSTAS COMPLETAS",
+          "url": "https://www.youtube.com/watch?v=szjTZHFVWzo"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Treino COMPLETO de Dorsal",
+          "url": "https://www.youtube.com/watch?v=H53JRM_q6fE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Treino COMPLETO para DORSAIS | Dorsais SUPER DEFINIDAS",
+          "url": "https://www.youtube.com/watch?v=WGagccHySBs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "7 segredos para dorsais de profissional",
+          "url": "https://www.youtube.com/watch?v=cH_TJQRF_zE"
+        },
+        {
+          "titulo": "TREINO PARA QUEM PRECISA MELHORAR A DORSAL I BALESTRIN VLOG          ",
+          "url": "https://www.youtube.com/watch?v=Qxn2fP_G-yw"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Treino Peitoral",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "PUMP NO PEITORAL - MEU TREINO",
+          "url": "https://www.youtube.com/watch?v=K4YNmyVh5zs"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "PEITO : O BÁSICO QUE FUNCIONA",
+          "url": "https://www.youtube.com/watch?v=EqdOkMHjYbI"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Treino de PEITO COMPLETO - PUMP INSANO",
+          "url": "https://www.youtube.com/watch?v=zZcE1MN4lNU"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "O JEITO CERTO DE TREINAR PEITORAL | VOCÊ EM CONSTRUÇÃO",
+          "url": "https://www.youtube.com/watch?v=3qF4Hw_W-lk"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "3 EXERCÍCIOS PARA DEFINIR O PEITORAL! *peito do arnold*",
+          "url": "https://www.youtube.com/watch?v=GxWQJlGhDZg"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Treino de Perna",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TREINO DE PERNAS COM ÊNFASE NO QUADRÍCEPS",
+          "url": "https://www.youtube.com/watch?v=OA1Kh9YKn6U"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "TREINO DE PERNAS - Dicas para construir pernas GIGANTES",
+          "url": "https://www.youtube.com/watch?v=328TZECBeSQ"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Como ganhar perna mais rápido | membros inferiores",
+          "url": "https://www.youtube.com/watch?v=gxJ_i8DlB2s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "BUGAMOS TUDO COM ESSE TREINO INSANO COM HORSE E CARIANI - LEO STRONDA",
+          "url": "https://www.youtube.com/watch?v=amXs0EgszYo"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "FIZ ELA CHORAR NO TREINO DE PERNAS! *gringa sarada*",
+          "url": "https://www.youtube.com/watch?v=YFXc71cANSI"
+        }
+      ]
+    },
+    {
+      "titulo": "Treino de Braço e Ombro",
+      "cor": "#8B4513",
+      "videos": [
+        {
+          "titulo": "CONSTRUA OMBROS E BRAÇOS GIGANTES | BALESTRIN E MUZY ENSINAM COMO",
+          "url": "https://www.youtube.com/watch?v=q4PjEj3HJhM"
+        },
+        {
+          "titulo": "O SEGREDO DO ARNOLD - TREINO DE BÍCEPS",
+          "url": "https://www.youtube.com/watch?v=TJAoqLtR8iY"
+        },
+        {
+          "titulo": "Treino COMPLETO de Bíceps e Tríceps - O que há por trás dessa técnica?",
+          "url": "https://www.youtube.com/watch?v=2Nd4fsUrvLA"
+        },
+        {
+          "titulo": "COMO AUMENTAR SEU BÍCEPS *treinei o filho do Renato Cariani*",
+          "url": "https://www.youtube.com/watch?v=dZMBNN9qLfo"
+        }, 
+        {
+          "titulo": "SARDINHA REVELA COMO AUMENTOU 4 CM DE BRAÇO EM 3 MESES!",
+          "url": "https://www.youtube.com/watch?v=5shGAw7_j1s"
+        },
+        {
+          "titulo": "COMO AUMENTAR SEUS BRAÇOS! *O MÉTODO QUE FUNCIONA*",
+          "url": "https://www.youtube.com/watch?v=98R8xD6hMQo"
+        },
+        {
+          "titulo": "TREINO INFALÍVEL PARA CRESCER BÍCEPS! você nunca treinou assim*",
+          "url": "https://www.youtube.com/watch?v=AsAiWDhoaKM"
         }
       ]
     }

@@ -1,5 +1,6 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import { MyLink } from './styles';
 import { Link } from 'react-router-dom';
 import Logo from '../../assets/img/Logo.png';
 
@@ -10,9 +11,9 @@ function Footer() {
             <img className="Logo" src={Logo} alt="MarombaFlix Logo"/ >
       </Link>
       <p>
-        Orgulhosamente criado por <a href="https://www.linkedin.com/in/flavio-s-menezes/">
+        Orgulhosamente criado por <MyLink as="a" href="https://www.linkedin.com/in/flavio-s-menezes/">
           Flávio Souto Menezes
-        </a>
+        </MyLink>
         {' '}
       </p>
       <p>
